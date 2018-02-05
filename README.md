@@ -1,2 +1,4 @@
-# todo-oop
-Todo list in Object Oriented Programming using PHP
+# oop-task
+PHP Awesome Task-List Application
+
+![](http://i.imgur.com/deoetNx.png)
